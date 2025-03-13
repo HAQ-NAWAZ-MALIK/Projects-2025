@@ -5,3 +5,4 @@ kj
 Based on several DSPy resources and tutorials, DSPy doesn’t provide a dedicated "DocumentSummarizer" class. Instead, document summarization is typically implemented by defining a custom summarization signature (for example, one that maps a document’s text to its summary) and then instantiating a DSPy module—often using the ChainOfThought or Predict module—to perform the task. In practice, you would create a signature (e.g. with fields like passage as input and summary as output) and then build a module (using something like dspy.ChainOfThought) that leverages DSPy’s automatic prompt optimization to generate a robust summar
 
 
+![image](https://github.com/user-attachments/assets/8e3789bb-db66-45f3-95ce-013b61711a5a)
