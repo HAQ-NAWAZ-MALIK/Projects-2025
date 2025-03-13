@@ -6,4 +6,4 @@ In this project, we worked through the entire process of data analysis and predi
 
 Next, we applied **feature engineering** techniques, including dimensionality reduction (PCA), feature selection (filter-based and wrapper-based methods), and encoding categorical variables. If the dataset had imbalanced classes, we addressed it using appropriate resampling methods.  
 
-For **predictive modeling**, we trained and evaluated **Linear Regression and Decision Tree models**, assessing their performance using metrics like MAE, MSE, and R-squared. We documented each step, including key observations and justifications for our decisions.  
+For **predictive modeling**, we trained and evaluated **Linear Regression and Decision Tree models**, assessing their performance using metrics like MAE, MSE, and R-squared.
