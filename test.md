@@ -1,9 +1,7 @@
 
 
- What We Did in This Learning LAB  
 
-In this project, we worked through the entire process of data analysis and predictive modeling. We started by **acquiring and preparing the dataset**, ensuring it was clean and ready for analysis by handling missing values, duplicates, inconsistencies, and outliers. We also explored and summarized the dataset using statistical and descriptive analysis techniques.  
 
-Next, we applied **feature engineering** techniques, including dimensionality reduction (PCA), feature selection (filter-based and wrapper-based methods), and encoding categorical variables. If the dataset had imbalanced classes, we addressed it using appropriate resampling methods.  
+![Output  1](https://github.com/user-attachments/assets/29baf586-3423-44f6-b144-f070de3f541f)
 
-For **predictive modeling**, we trained and evaluated **Linear Regression and Decision Tree models**, assessing their performance using metrics like MAE, MSE, and R-squared.
+![Output 2](https://github.com/user-attachments/assets/08c61c24-01e0-4868-979e-f3660e9e1fd7)
